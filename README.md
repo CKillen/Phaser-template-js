@@ -1,12 +1,15 @@
-This repo was made from [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript). Their repo is worth a star! If you don't want the added automated push to github pages, I highly recommend you just use their repo instead.
+## This is the base Repo for my absolute beginner tutorials. If you know how to use Javascript well, I highly recommend you instead use the [Typescript version](https://github.com/CKillen/phaser-template-js). While types can be confusing at first, they are 100% worth learning about once you have a solid grasp on js.
+
+This repo was made from [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript). Their repo is worth a star! If you don't want to use typescript and don't want the automated pushes to github pages I highly recommend just using their repo.
 
 [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript) provided a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Rollup](https://rollupjs.org) with ⚡️ lightning fast HMR through [Vite](https://vitejs.dev/).
 
 I changed a few minor things and added a github workflow that will automatically deploy
-the site to a gh-page branch on push. Follow the below steps.
+the site to a gh-page branch on push. This project also is for js. Follow the below steps.
+If you have trouble check my youtube video here [WIP](https://) or contact me (see bottom of README)
 
 ## Creating your own project off the template
-1. Go to the [Template Repo](https://github.com/CKillen/phaser-template)
+1. Go to the [Template Repo](https://github.com/CKillen/phaser-template-js)
 2. Click the green button "Use Template"
 3. Follow instructions. <b>Repo MUST be kept public for gh-pages to work</b>
 5. Clone the created repo and run in project directory
