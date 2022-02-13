@@ -1,11 +1,11 @@
-## This is the base Repo for my absolute beginner tutorials. If you know how to use Javascript well, I highly recommend you instead use the [Typescript version](https://github.com/CKillen/phaser-template-js). While types can be confusing at first, they are 100% worth learning about once you have a solid grasp on js.
+## I Highly recommend you use TypeScript over JavaScript. It is 100% worth the time to learn
 
-This repo was made from [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript). Their repo is worth a star! If you don't want to use typescript and don't want the automated pushes to github pages I highly recommend just using their repo.
+This repo was made from [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript). Their repo is worth a star! If you want to use typescript and don't want the automated pushes to github pages I highly recommend just using their repo.
 
 [Geocine's Template](https://github.com/geocine/phaser3-rollup-typescript) provided a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Rollup](https://rollupjs.org) with ⚡️ lightning fast HMR through [Vite](https://vitejs.dev/).
 
 I changed a few minor things and added a github workflow that will automatically deploy
-the site to a gh-page branch on push. This project also is for js. Follow the below steps.
+the site to a gh-page branch on push. This template also removes TS. Follow the below steps.
 If you have trouble check my youtube video here [WIP](https://) or contact me (see bottom of README)
 
 ## Creating your own project off the template
@@ -40,4 +40,4 @@ base: "https://<github-account-name>.github.io/<repo-name>/",
 
 It will show you the site url after going through these steps. It should be the exact same as the base you entered earlier. If it is not, copy it and set base to that url and push the change.
 
-To contact me for help please either start an issue or contact me via discord. I highly recommend joining [the phaser discord community](https://discord.gg/phaser). After joining the discord you can send a direct message to Hicures#7097.
+To contact me for help please either start an issue or contact me via discord. After joining [the phaser discord community](https://discord.gg/phaser) you can send a direct message to Hicures#7097.
